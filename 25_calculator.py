@@ -6,7 +6,7 @@ from turtle import width
 root = Tk()
 root.geometry("600x850")
 root.title("Calculator By Varaliya")
-root.wm_iconbitmap("C:\\Users\\varal\\Downloads\\calculator.ico")
+root.wm_iconbitmap("calculator.ico")
 root.configure(background="black")
 root.resizable(False, False)
 
