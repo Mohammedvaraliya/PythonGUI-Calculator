@@ -12,4 +12,4 @@ A nice looking python calculator using the tkinter module.
 
 # Thank you!
 
-I really appreciate all kinds of feedback and contributions. Pleaes feel free to contribute in this project to learn or improve this.
+I really appreciate all kinds of feedback and contributions. Please feel free to contribute in this project to learn or improve this.
